@@ -1,3 +1,9 @@
+Projeto amador, apenas brincando e conhecendo o framework react:
+
+link LandingPage:
+https://felipeamorim09.github.io/Sistem-GoTrip/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
