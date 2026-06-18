@@ -9,8 +9,7 @@ import UserManagement from '../src/pages/stockUser';
 
 export default function App() {
   return (
-   
-    <BrowserRouter basename="/Sistem-GoTrip">
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} /> 
         <Route path="/login" element={<Login />} />
