@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sistem-GoTrip/static/css/main.3b71cc2a.css",
+    "main.js": "/Sistem-GoTrip/static/js/main.c69ef347.js",
+    "static/js/453.dd6b7883.chunk.js": "/Sistem-GoTrip/static/js/453.dd6b7883.chunk.js",
+    "index.html": "/Sistem-GoTrip/index.html",
+    "main.3b71cc2a.css.map": "/Sistem-GoTrip/static/css/main.3b71cc2a.css.map",
+    "main.c69ef347.js.map": "/Sistem-GoTrip/static/js/main.c69ef347.js.map",
+    "453.dd6b7883.chunk.js.map": "/Sistem-GoTrip/static/js/453.dd6b7883.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b71cc2a.css",
+    "static/js/main.c69ef347.js"
+  ]
+}
